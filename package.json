@@ -1,0 +1,14 @@
+{
+  "name": "github-song-status",
+  "version": "1.0.0",
+  "description": "Display your now playing on LastFM on your Github profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "removal#1762",
+  "license": "ISC",
+  "dependencies": {
+    "github-profile-status": "^1.0.0"
+  }
+}
