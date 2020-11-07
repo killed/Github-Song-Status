@@ -1,3 +1,7 @@
+# Note
+
+This isn't completely done I need to work on finding out the rate limit because currently it'll delete your lastfm api key for spamming too much
+
 # Setup
 
 Firstly you will need to obtain a Last FM and Github API key and you can get them from here -
